@@ -21,7 +21,26 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Section 5 Windows Python Setup\Exercise1and2.py" />
+    <Compile Include="Section 7 Variable and Strings\Exercise3.py" />
+    <Compile Include="Section 7 Variable and Strings\Exercise4.py" />
+    <Compile Include="Section 7 Variable and Strings\Exercise5.py" />
+    <Compile Include="Section 7 Variable and Strings\Exercise6.py" />
+    <Compile Include="Section 7 Variable and Strings\Exercise7.py" />
+    <Compile Include="Section 8 Boolean Conditional Logic\Bouncer.py" />
+    <Compile Include="Section 8 Boolean Conditional Logic\Exercise10.py" />
     <Compile Include="HelloWorld.py" />
+    <Compile Include="Section 8 Boolean Conditional Logic\Exercise11.py" />
+    <Compile Include="Section 8 Boolean Conditional Logic\Exercise12.py" />
+    <Compile Include="Section 8 Boolean Conditional Logic\Exercise8.py" />
+    <Compile Include="Section 8 Boolean Conditional Logic\Exercise9.py" />
+    <Compile Include="Section 9 Rock Paper Scissors App\RockPaperScissors.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Section 9 Rock Paper Scissors App\" />
+    <Folder Include="Section 5 Windows Python Setup\" />
+    <Folder Include="Section 7 Variable and Strings\" />
+    <Folder Include="Section 8 Boolean Conditional Logic\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
