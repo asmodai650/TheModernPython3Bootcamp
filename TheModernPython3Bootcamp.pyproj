@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f9c22d0b-d41e-4e42-81c1-f5511c614975</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>HelloWorld.py</StartupFile>
+    <StartupFile>Section 9 Rock Paper Scissors App\RockPaperScissors_V3.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -34,7 +34,9 @@
     <Compile Include="Section 8 Boolean Conditional Logic\Exercise12.py" />
     <Compile Include="Section 8 Boolean Conditional Logic\Exercise8.py" />
     <Compile Include="Section 8 Boolean Conditional Logic\Exercise9.py" />
-    <Compile Include="Section 9 Rock Paper Scissors App\RockPaperScissors.py" />
+    <Compile Include="Section 9 Rock Paper Scissors App\RockPaperScissors_V3.py" />
+    <Compile Include="Section 9 Rock Paper Scissors App\RockPaperScissors_V2.py" />
+    <Compile Include="Section 9 Rock Paper Scissors App\RockPaperScissors_V1.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Section 9 Rock Paper Scissors App\" />
