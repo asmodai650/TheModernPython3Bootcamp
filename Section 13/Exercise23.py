@@ -10,3 +10,5 @@
 az = 'amazing'
 
 answer = [n for n in az if n not in ['a', 'e', 'i', 'o', 'u']]
+
+print(answer)
