@@ -21,6 +21,26 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Section 10 Loops\EmojiArt.py" />
+    <Compile Include="Section 10 Loops\ForLoopAndRangeExercise.py" />
+    <Compile Include="Section 10 Loops\ScreamingRepeating.py" />
+    <Compile Include="Section 10 Loops\StopCopyingMe.py" />
+    <Compile Include="Section 10 Loops\UnluckyNumbers.py" />
+    <Compile Include="Section 10 Loops\WhileLoopExercise.py" />
+    <Compile Include="Section 11\GuessingGame.py" />
+    <Compile Include="Section 11\RockPaperScissors_V4.py" />
+    <Compile Include="Section 12\Exercise15.py" />
+    <Compile Include="Section 12\Exercise16.py" />
+    <Compile Include="Section 12\Exercise17.py" />
+    <Compile Include="Section 12\Exercise18.py" />
+    <Compile Include="Section 12\Exercise19.py" />
+    <Compile Include="Section 13\Exercise20.py" />
+    <Compile Include="Section 13\Exercise21.py" />
+    <Compile Include="Section 13\Exercise22.py" />
+    <Compile Include="Section 13\Exercise23.py" />
+    <Compile Include="Section 13\Exercise24.py" />
+    <Compile Include="Section 13\Exercise25.py" />
+    <Compile Include="Section 14\Exercise26.py" />
     <Compile Include="Section 5 Windows Python Setup\Exercise1and2.py" />
     <Compile Include="Section 7 Variable and Strings\Exercise3.py" />
     <Compile Include="Section 7 Variable and Strings\Exercise4.py" />
@@ -39,6 +59,11 @@
     <Compile Include="Section 9 Rock Paper Scissors App\RockPaperScissors_V1.py" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Section 10 Loops\" />
+    <Folder Include="Section 11\" />
+    <Folder Include="Section 12\" />
+    <Folder Include="Section 13\" />
+    <Folder Include="Section 14\" />
     <Folder Include="Section 9 Rock Paper Scissors App\" />
     <Folder Include="Section 5 Windows Python Setup\" />
     <Folder Include="Section 7 Variable and Strings\" />
